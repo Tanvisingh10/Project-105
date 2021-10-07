@@ -1,0 +1,14 @@
+
+label{
+    font-size: 20px;
+    color: darkblue;
+    background-color: lemonchiffon;
+    border-radius: 10px;
+    padding: 5px;
+}
+#camera , #result
+{
+  border: 4px solid black;
+  width: 350px;
+  height: 300px; 
+}
